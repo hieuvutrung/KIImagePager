@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5F39D364-703D-4B74-8648-E0CEC83F43B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KIImagePager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>312BF1B7A481919B147ABA579F803CD253EDB1C1</key>
+		<string>github.com:kimar/KIImagePager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KIImagePager.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>312BF1B7A481919B147ABA579F803CD253EDB1C1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kimar/KIImagePager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>312BF1B7A481919B147ABA579F803CD253EDB1C1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>312BF1B7A481919B147ABA579F803CD253EDB1C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KIImagePager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
